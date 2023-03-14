@@ -1,1 +1,2 @@
-# lab-06
+# Team Members
+Jaya Travis
